@@ -9,7 +9,8 @@ namespace Day3_LineCompare
         public static void Main(string[] args)
         {
             //UC1_Calculate_length.CalculateLength();
-            UC2_equality_of_two_lines.equalityoftwolines();
+            //UC2_equality_of_two_lines.equalityoftwolines();
+            UC3_compare_two_lines.equalityoftwolines();
         }
     }
 }
